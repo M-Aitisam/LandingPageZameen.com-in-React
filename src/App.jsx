@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from './components/Navbar.jsx'
 import SubNavbar from './components/SubNavbar.jsx'
 import BodySection from './components/BodySection.jsx'
+import Cards from './components/Cards.jsx'
 
 const App = () => {
   return (
@@ -9,6 +10,7 @@ const App = () => {
       <Navbar/>
       <SubNavbar/>
       <BodySection/>
+      <Cards/>
     </div>
   )
 }
