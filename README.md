@@ -1,8 +1,4 @@
-# React + Vite
+👉 Created a Landing Page zaneem.com in  react
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/user-attachments/assets/357643d8-de15-48bf-9e4a-d69447c0fbee)
+![screencapture-localhost-5173-2024-12-05-00_10_46](https://github.com/user-attachments/assets/d1f8a49c-15f7-4b63-a171-43e997f2bf62)
