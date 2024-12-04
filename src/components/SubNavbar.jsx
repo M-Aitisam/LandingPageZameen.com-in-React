@@ -10,7 +10,7 @@ const SubNavbar = () => {
 <div className="mr-[32rem] font-light">
       {/* Center - Navigation Links */}
       <ul className="flex space-x-6 text-gray-700 text-sm font-light">
-        <li className="hover:text-[#33A137] flex gap-3 cursor-pointer">BUY <span className="">></span></li>
+        <li className="hover:text-[#33A137] flex gap-3 cursor-pointer">BUY </li>
         <li className="hover:text-[#33A137] font-bold text-red-600 flex gap-6 cursor-pointer">HOMES </li>
         <li className="hover:text-[#33A137] flex gap-6 cursor-pointer">PLOTS </li>
         <li className="hover:text-[#33A137] flex gap-6 cursor-pointer">COMMERCIAL <span>|</span></li>

@@ -30,7 +30,7 @@ const Navbar = () => {
         </button>
         <div className="flex space-x-2">
           <img src="pakistan.png" alt="User Icon" className="h-6 w-6" />
-          <img src="setting.png" className="m" alt="Notification Icon" className="h-6 w-6" />
+          <img src="setting.png"  alt="Notification Icon" className="m h-6 w-6" />
           <img src="men.png" alt="Settings Icon" className="h-6 w-6" />
         </div>
       </div>

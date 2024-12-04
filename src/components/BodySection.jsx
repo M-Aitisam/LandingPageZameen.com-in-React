@@ -31,11 +31,11 @@ const BodySection = () => {
         </div>
 
         {/* Search Bar */}
-        <div className="bg-black bg-opacity-75 p-4 rounded-lg flex items-center space-x-4 w-[80%]">
+        <div className="bg-black bg-opacity-60 p-4 rounded-lg flex items-center space-x-4 w-[30%]">
           {/* City Dropdown */}
-          <div className="flex-1">
-            <label className="text-sm font-bold block mb-1">CITY</label>
-            <select className="w-full px-3 py-2 border rounded">
+          <div className="flex-1  bg-white">
+            <label className="text-[10px] text-black">CITY</label>
+            <select className=" px-3 border rounded">
               <option>Islamabad</option>
               <option>Karachi</option>
               <option>Lahore</option>
@@ -43,12 +43,12 @@ const BodySection = () => {
           </div>
 
           {/* Location Input */}
-          <div className="flex-1">
-            <label className="text-sm font-bold block mb-1">LOCATION</label>
+          <div className="flex-1  bg-white">
+            <label className="text-[10px] text-black">LOCATION</label>
             <input
               type="text"
               placeholder="Enter location"
-              className="w-full px-3 py-2 border rounded"
+              className="w-full px-3 text-[10px] border rounded"
             />
           </div>
 
@@ -56,6 +56,7 @@ const BodySection = () => {
           <button className="px-6 py-2 bg-green-600 text-white font-bold rounded hover:bg-green-700">
             FIND
           </button>
+          
         </div>
 
         {/* Additional Options */}
